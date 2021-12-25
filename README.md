@@ -11,6 +11,7 @@ the Dataset is available in [Kaggle](https://www.kaggle.com/)
 [Insurance Dataset](https://www.kaggle.com/mirichoi0218/insurance) has 1338 rows and 7 columns
 
 
+
 | Columns       | Description  |
 | ------------- |:-------------:|
 | Age           | age of primary beneficiary |
@@ -22,13 +23,23 @@ the Dataset is available in [Kaggle](https://www.kaggle.com/)
 | Charges       |  Individual medical costs billed by health insurance. |
 
 
+
+
+
+
 ### Data Preprocessing
+
 1. Removing outliers using Z score
 2. Log transformation for data target
 3. Label encoding
 
 
+
+
+
 ### Models Comparison
+
+
 
 | Method                | Score    | RMSE     |
 | ----------------------|:--------:|:--------:|
@@ -38,7 +49,11 @@ the Dataset is available in [Kaggle](https://www.kaggle.com/)
 | Decision tree         | 81%      | 0.176421 |
 
 
+
+
+
 ### Deploying
+
 
 ![image](https://user-images.githubusercontent.com/71708747/147376365-f59dce51-6c6f-47d0-b564-0128128399d9.png)
 
