@@ -25,14 +25,11 @@ the Dataset is available in [Kaggle](https://www.kaggle.com/)
 
 
 
-
-
 ### Data Preprocessing
 
 1. Removing outliers using Z score
 2. Log transformation for data target
 3. Label encoding
-
 
 
 
